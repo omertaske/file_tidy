@@ -73,13 +73,13 @@ File Tidy, Windows için geliştirilmiş bir dosya yönetim ve temizleme uygulam
 
 - 🐛 Hata bildirimi için: [GitHub Issues](https://github.com/omertaske/file_tidy/issues)
 - 📧 İletişim: [omertaskesenn@gmail.com]
-- 💬 Öneriler için: [GitHub Discussions](https://github.com/omertaske/file_tidy/discussions)
+
 
 ## 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ---
-Geliştirici: [Ömer Taşkesen]  
+Geliştirici: Ömer Taşkesen
 Versiyon: 1.0.0  
-Son Güncelleme: [18.01.2025]
+Son Güncelleme: 18.01.2025
