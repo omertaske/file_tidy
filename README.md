@@ -2,7 +2,7 @@
 
 File Tidy, Windows için geliştirilmiş bir dosya yönetim ve temizleme uygulamasıdır.
 
-## Özellikler
+## 🚀 Özellikler
 
 - 📁 Dosya ve klasör yönetimi
 - 🔍 Gelişmiş arama
@@ -11,62 +11,75 @@ File Tidy, Windows için geliştirilmiş bir dosya yönetim ve temizleme uygulam
 - 🔄 Yinelenen dosya bulma
 - 📈 Sistem kaynak kullanımı takibi
 
-## Minimum Gereksinimler
+## 💻 Minimum Gereksinimler
 
 - Windows 10 veya üzeri
 - 4GB RAM
 - 100MB boş disk alanı
 - Microsoft Visual C++ Redistributable 
 
-## Kurulum
+## ⚙️ Kurulum
 
 ### Installer (.msix) ile:
-1. file_tidy_installer.msix dosyasını çift tıklayın
-2. "Yükle" butonuna tıklayın
-3. Program otomatik kurulacak
+1. `file_tidy_installer.msix` dosyasını indirin
+2. İndirilen dosyaya çift tıklayın
+3. "Yükle" butonuna tıklayın
+4. Kurulum otomatik tamamlanacak
 
 ### Portable Versiyon:
-1. file_tidy_portable.zip dosyasını indirin
-2. İstediğiniz bir klasöre çıkartın
-3. file_tidy.exe'yi çalıştırın
+1. `file_tidy_portable.zip` dosyasını indirin
+2. ZIP dosyasını istediğiniz bir klasöre çıkartın
+3. `file_tidy.exe` dosyasını çalıştırın
 
-## Kullanım
+## 📖 Kullanım Kılavuzu
 
-1. Program ilk açıldığında varsayılan olarak Downloads, Documents, Desktop gibi klasörleri tarar
-2. Üst menüden istediğiniz sekmeyi seçin:
-   - Genel Bakış: Disk kullanımı ve sistem bilgileri
-   - Büyük Dosyalar: 100MB üzeri dosyaları listeler
-   - Eski Dosyalar: 180 günden eski dosyaları gösterir
-   - Yinelenen Dosyalar: Aynı içeriğe sahip dosyaları bulur
-   - Derin Tarama: Seçilen klasörü detaylı analiz eder
+### Ana Özellikler
+- **Genel Bakış**: Disk kullanımı ve sistem bilgileri
+- **Büyük Dosyalar**: 100MB üzeri dosyaları listeler
+- **Eski Dosyalar**: 180 günden eski dosyaları gösterir
+- **Yinelenen Dosyalar**: Aynı içeriğe sahip dosyaları bulur
+- **Derin Tarama**: Seçilen klasörü detaylı analiz eder
 
-3. Dosya işlemleri:
-   - Sağ tık menüsü ile temel işlemleri yapabilirsiniz
-   - Sürükle-bırak ile dosyaları taşıyabilirsiniz
-   - Ctrl+F ile arama yapabilirsiniz
+### Kısayollar
+- `Ctrl + F`: Dosya arama
+- `Delete`: Seçili öğeyi sil
+- `Ctrl + C`: Kopyala
+- `Ctrl + V`: Yapıştır
 
-## Sürüm Notları (v1.0.0)
+### Sürükle-Bırak
+- Dosyaları klasörler arasında taşımak için sürükleyip bırakabilirsiniz
+- Çoklu seçim için `Ctrl` tuşunu basılı tutun
 
-- İlk sürüm
-- Temel dosya yönetim özellikleri
-- Disk analizi ve temizleme araçları
-- Türkçe arayüz desteği
+## 🔄 Sürüm Notları (v1.0.0)
 
-## Sorun Giderme
+### Yeni Özellikler
+- Dosya yönetim araçları
+- Disk analizi
+- Sistem monitörü
+- Türkçe arayüz
 
-1. Program açılmıyorsa:
-   - Visual C++ Redistributable'ı yükleyin
-   - Windows güncellemelerini kontrol edin
+## ❗ Sorun Giderme
 
-2. "DLL eksik" hatası:
-   - Portable sürümde tüm dosyaların aynı klasörde olduğundan emin olun
+### Program Açılmıyor
+1. Visual C++ Redistributable'ı yükleyin:
+   - [Visual C++ 2015-2022 Redistributable x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+2. Windows güncellemelerini kontrol edin
 
-## İletişim
+### DLL Hatası
+- Portable sürümde tüm dosyaların aynı klasörde olduğundan emin olun
+- Antivirüs programının dosyaları engellemediğinden emin olun
 
-Sorun ve önerileriniz için:
-- GitHub Issues
-- E-posta: [e-posta adresiniz]
+## 📞 İletişim & Destek
 
-## Lisans
+- 🐛 Hata bildirimi için: [GitHub Issues](https://github.com/omertaske/file_tidy/issues)
+- 📧 İletişim: [omertaskesenn@gmail.com]
+- 💬 Öneriler için: [GitHub Discussions](https://github.com/omertaske/file_tidy/discussions)
 
-Bu yazılım MIT lisansı altında dağıtılmaktadır.
+## 📄 Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
+
+---
+Geliştirici: [Ömer Taşkesen]  
+Versiyon: 1.0.0  
+Son Güncelleme: [18.01.2025]
